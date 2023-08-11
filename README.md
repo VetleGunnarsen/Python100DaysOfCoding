@@ -7,6 +7,8 @@ My plan is to use this README file as a make shift journal. The thoughts I gathe
 In this rep I will upload my code from day to day. So the first thing I need to do is to re-learn how to upload code to Github.
 Wish me luck!
 
-Challenge link: https://github.com/phillipai/100-days-of-code-python/tree/main
+
 
 # Day 1
+Day one is a very confertable start! Print statement is something I sort of have a hang of!
+Looking forward to day 2!
