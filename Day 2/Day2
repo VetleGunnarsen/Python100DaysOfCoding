@@ -1,0 +1,10 @@
+name = input("what is ur name? ")
+age = input("What is ur age? ")
+height = input("What is ur height? ")
+weight = input("What is ur weight? ")
+
+print("Let me see if I got it right")
+print("ur name is " + name + " and you are " + age + " years old.")
+print("You are " + height + "cm tall, and weigh " + weight + "kg")
+print("Did i get it right?")
+print("Hurray!")
