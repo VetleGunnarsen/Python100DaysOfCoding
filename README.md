@@ -12,3 +12,7 @@ Wish me luck!
 # Day 1
 Day one is a very confertable start! Print statement is something I sort of have a hang of!
 Looking forward to day 2!
+
+# Day 2
+Day two was once again a smooth start. Variables are a straight forward kind of thing. for now.....
+The code is simple enough, but I cant wait to see what day 3 has in store for me.
