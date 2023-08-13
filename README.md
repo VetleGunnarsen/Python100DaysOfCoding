@@ -16,3 +16,7 @@ Looking forward to day 2!
 # Day 2
 Day two was once again a smooth start. Variables are a straight forward kind of thing. for now.....
 The code is simple enough, but I cant wait to see what day 3 has in store for me.
+
+# Day 3
+Day three was once again something I kind of knew from before, but I actually learned that you can use "," to combine strings and varaiables, instead of useing "+". So that was nice.
+The teacher said that tommorrow is a "project day". Im excited to see what the assignment is. I actually created a little project myself today. a fun little adjective story that you can put in the adjective before the story is told. Then it will put them in. It was kind of cool. Thx to CHAT-GPT for the story text.
