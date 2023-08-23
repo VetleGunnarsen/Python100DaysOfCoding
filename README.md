@@ -32,3 +32,6 @@ Just working more on the extended syntax of if statemnets was pretty cool. I fee
 
 # Day 7
 This day felt a bit like day 4. And that is a good thing. Not rushing into new concepts, just repeating the previous lessons. When I got the code that I was ment to fix, I imidiatly found what was wrong. That was a good feeling.
+
+# Day 8
+Day 8 is another project day! I wanted to test myself a bit! As you can see from my code, I wanted to have the code give a response depending on what you answered, and also have a totally different print if you didnt answer inside the range. It took some figuring out and alot of thinking, but I finally manged to figure it out. Was a fun project and I feel I have a good hang of nesting, if, elif and else statements now.
