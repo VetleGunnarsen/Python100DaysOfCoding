@@ -43,3 +43,6 @@ After a few days off coding due to work and football related issues im back at t
 This was a though one for me, but I think I got it correctly. I found this days challenge a little dificlut but I thing I at the end. The way the material explained it was maybe a bit different, but I did it my way, which im happy with! On to day 11
 
 # Day 11
+Again this was a though one, feel like the difficulty will just rise from here. Spent a lot of time to figure out the maths behind this, but when I got it, I think I got some clean code out of it. I once again added a While loop to make the program run until you actually did it correctly. Debugging tommorrow! Gonna be fun!
+
+# Day 12
