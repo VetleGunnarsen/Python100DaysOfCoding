@@ -38,3 +38,8 @@ Day 8 is another project day! I wanted to test myself a bit! As you can see from
 
 # Day 9
 After a few days off coding due to work and football related issues im back at the grind. This day was interesting I learned some interesting and helpful tips. The first thing I took away from this is how to actually define a input as int or float. I thought I had to convert it afterward but that was wrong or just more time consuming. The second thing is a better way to define a range. In one of the earlier challenges I defined a lower and upper limit in preset variables. I now see that the way I did it in this challenge was WAY easier.  
+
+# Day 10
+This was a though one for me, but I think I got it correctly. I found this days challenge a little dificlut but I thing I at the end. The way the material explained it was maybe a bit different, but I did it my way, which im happy with! On to day 11
+
+# Day 11
