@@ -36,5 +36,5 @@ This day felt a bit like day 4. And that is a good thing. Not rushing into new c
 # Day 8
 Day 8 is another project day! I wanted to test myself a bit! As you can see from my code, I wanted to have the code give a response depending on what you answered, and also have a totally different print if you didnt answer inside the range. It took some figuring out and alot of thinking, but I finally manged to figure it out. Was a fun project and I feel I have a good hang of nesting, if, elif and else statements now.
 
-# Day 8
+# Day 9
 After a few days off coding due to work and football related issues im back at the grind. This day was interesting I learned some interesting and helpful tips. The first thing I took away from this is how to actually define a input as int or float. I thought I had to convert it afterward but that was wrong or just more time consuming. The second thing is a better way to define a range. In one of the earlier challenges I defined a lower and upper limit in preset variables. I now see that the way I did it in this challenge was WAY easier.  
